@@ -4,10 +4,10 @@
   "description": "Sample project with vulnerable dependencies",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.11",
-    "axios": "0.18.0",
-    "express": "4.16.0",
-    "minimist": "0.0.8",
+    "lodash": "4.17.21",
+    "axios": "1.6.0",
+    "express": "4.18.2",
+    "minimist": "1.2.6",
     "debug": "2.6.8"
   }
 }
